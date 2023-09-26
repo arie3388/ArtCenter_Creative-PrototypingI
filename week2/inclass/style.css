@@ -20,17 +20,15 @@ nav ul{
 nav ul li{
   display: inline-block ;
   }
-
-}
-.big{
-    font-size: 32px;
-    font-style: helvetica;
+p{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif
 }
 @media (min-width: 2050px){
     main, header{
        width: 1040px; 
     }
-    img{ min-width: 300px;
+    img{ min-width: auto;
     }
 }
 a:link{
