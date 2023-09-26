@@ -24,8 +24,9 @@ nav ul li{
 }
 .big{
     font-size: 32px;
+    font-style: helvetica;
 }
-@media (min-width: 2050px){
+@media (max-width: 2050px){
     main, header{
        width: 1040px; 
     }
@@ -44,4 +45,5 @@ h1{
     font-weight: 600;
 }
 #specialImage{ 
-    max-width: 100%;}
+    max-width: 100%;
+}
