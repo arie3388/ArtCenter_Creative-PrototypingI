@@ -20,8 +20,7 @@ nav ul{
 nav ul li{
   display: inline-block ;
   }
-.red{
-    color: darkred;
+
 }
 .big{
     font-size: 32px;
@@ -30,22 +29,19 @@ nav ul li{
     main, header{
        width: 1040px; 
     }
-    img{ 
-        width: 200px;
+    img{ min-width: 300px;
     }
 }
 a:link{
     text-decoration: none;
     color: white;
-    text-align: center;
     padding: 20px;
-}
-#specialImage{
-    max-width: 100%;
-}
+    text-align: center;
+}   
 h1{
     font-size: 48px;
     font-family: 'Lucida San;
     font-weight: 600;
 }
-
+#specialImage{ 
+    max-width: 100%;}
