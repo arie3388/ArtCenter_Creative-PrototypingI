@@ -1,0 +1,15 @@
+.button {
+    position: relative;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+  }
+  .text {
+    display: block;
+    padding: 15px 45px;
+    border-radius: 15px;
+    background: #00c2cb;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #ffff;
+  }

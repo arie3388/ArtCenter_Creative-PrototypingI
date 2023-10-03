@@ -1,4 +1,16 @@
-#divOne{
-    height: 300px;
-    background-color: chartreuse;
+.btn {
+    position: relative;
+    background: #004958;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
 }
+ .text {
+        display: block;
+        padding: 15px 45px;
+        border-radius: 15px;
+        background: #00c2cb;
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: #42455a;
+ }
