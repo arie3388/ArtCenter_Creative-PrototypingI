@@ -1,15 +1,9 @@
-.button {
-    position: relative;
-    border-radius: 15px;
-    border: none;
-    cursor: pointer;
-  }
-  .text {
-    display: block;
-    padding: 15px 45px;
-    border-radius: 15px;
-    background: #00c2cb;
-    font-size: 1.5rem;
-    font-weight: 500;
-    color: #ffff;
-  }
+main {
+  width: 800px;
+  margin-left: auto
+  margin-right: auto
+}
+
+.thumbnail-img {
+  max-width: 20%;
+}
