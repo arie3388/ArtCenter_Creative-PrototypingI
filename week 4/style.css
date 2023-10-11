@@ -1,0 +1,33 @@
+header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 16px;
+    background-color: #1572EF
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 16px;
+}
+time{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+.big{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-style: normal; 
+    line-height: normal;
+}
+em{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-style: italic;
+}
